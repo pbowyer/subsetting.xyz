@@ -356,5 +356,13 @@
 		"licenseUrl": "https://cdn.berkeleygraphics.com/static/legal/licenses/commercial-license.pdf",
 		"license": "You may not modify the fonts in any way.",
 		"licenseVersion": "DX-101-06. September, 2023"
+	},
+	{
+		"name": "Schrifteria",
+		"website": "https://schrifteria.xyz/",
+		"support": "Yes",
+		"licenseUrl": "https://schrifteria.xyz/licenses",
+		"license": "you are granted the right to [..] utilize a software tool to create a subset of the Font Software for the sole purpose of exercising the rights granted in this agreement.",
+		"licenseVersion": "2.1"
 	}
 ]
